@@ -12,7 +12,7 @@ c[2][2]*
 ![MultiplicacionNumpy](https://user-images.githubusercontent.com/66692550/122151863-ea015600-ce25-11eb-8957-08575fa241f4.PNG)
 
 *Acontinuación se procede a comprobar en una calculadora online para verificar que los resultados sean los corretos,
-demostrando que el programa funciona.
+demostrando que el programa funciona.*
 
 ![Comprobación1](https://user-images.githubusercontent.com/66692550/122151859-e968bf80-ce25-11eb-857c-79712af3e6ce.PNG)
 
